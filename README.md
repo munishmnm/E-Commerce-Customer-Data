@@ -1,16 +1,16 @@
-E-Commerce Customer Data Analysis using SQL
+# E-Commerce Customer Data Analysis using SQL
 
 This project focuses on analyzing an E-Commerce Customer Dataset to uncover key business insights using SQL.
 The main objective is to understand customer behavior, purchasing patterns, and sales performance through structured data queries.
 
-🔧 Tools & Technologies Used
+# 🔧 Tools & Technologies Used
 
 SQL (MySQL / PostgreSQL / SQLite)
 
 Excel (for data cleaning & validation)
 
 
-📊 Key Analysis Performed
+# 📊 Key Analysis Performed
 
 Customer segmentation based on purchase frequency and total spending
 
